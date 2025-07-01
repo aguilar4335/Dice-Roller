@@ -7,6 +7,8 @@
 
 body {
   background-color: #af7b4c;
+  display: grid;
+  place-items: center;
 }
 
 #head1 {
