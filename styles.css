@@ -9,6 +9,7 @@ body {
   background-color: #af7b4c;
   display: grid;
   place-items: center;
+  height: 100%;
 }
 
 #head1 {
