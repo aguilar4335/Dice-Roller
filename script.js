@@ -7,7 +7,7 @@ btn.addEventListener("click", () => {
     setTimeout(() => {
         let rand = Math.floor(Math.random() * 6) + 1;
         // console.log(rand);
-        img.setAttribute("src", `dices/dice${rand}.png`);
+        img.setAttribute("src", `imgs/dice${rand}.png`);
         img.classList.remove("roll");
     }, 1000);
 });
