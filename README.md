@@ -6,7 +6,7 @@ This is a basic site for rolling a dice. It features just a dice image and a rol
 
 ## 🚀 Demo
 
-[Click here to try it out](https://yourusername.github.io/dice-roller/)
+[Click here to try it out]( https://aguilar4335.github.io/Dice-Roller/)
 
 ## 💡 Features
 
