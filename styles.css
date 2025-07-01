@@ -3,7 +3,6 @@
   margin: 0;
   padding: 0;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  height: 100%;
 }
 
 body {
@@ -11,6 +10,7 @@ body {
   place-items: centre;
   /* background: linear-gradient(120deg, #af7b4c, #ebd8c1); */
   background-color: #af7b4c;
+  height: 100vh;
 }
 
 #head1 {
