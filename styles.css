@@ -7,9 +7,6 @@
 
 body {
   height: 100%;
-  display: grid;
-  place-items: centre;
-  /* background: linear-gradient(120deg, #af7b4c, #ebd8c1); */
   background-color: #af7b4c;
 }
 
